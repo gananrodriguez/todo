@@ -37,3 +37,8 @@ if(_cont%2==0){
 
 //END verificar si es par
    _cont++;
+
+
+// finalizar
+ getch();
+}
