@@ -24,4 +24,16 @@ while(_cont<=100){
 
 //verificar si es par
 
+
+
+
 if(_cont%2==0){
+
+
+//imprimir
+
+ printf("%d, ",_cont);
+
+
+//END verificar si es par
+   _cont++;
