@@ -20,3 +20,8 @@ clrscr();
 //limita el conteo hasta 100
 
 while(_cont<=100){
+
+
+//verificar si es par
+
+if(_cont%2==0){
