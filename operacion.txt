@@ -13,3 +13,6 @@ void main(){
 //limpia 
 
 clrscr();
+
+//Definicion de variables
+ int _cont;
